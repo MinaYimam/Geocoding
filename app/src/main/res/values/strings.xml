@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geocoding</string>
+    <string name="show_map">Show Map</string>
+    <string name="enter_text_to_map">Enter text to Map</string>
+    <string name="No_text_error">Enter a place to map</string>
+    <string name="no_place_found_error">No place Found!</string>
+    <string name="internet_connection_error">Sorry unable to geocode, Please check your internet connection</string>
+
+</resources>
